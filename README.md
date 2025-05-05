@@ -13,12 +13,6 @@ A clean and minimal Flutter app to track your dreams. Add daily entries with ico
 
 ---
 
-## 📱 Screenshot
-
-![App Screenshot](https://via.placeholder.com/300x600.png?text=Dream+Tracker)
-
----
-
 ## 🛠️ Built With
 
 * [Flutter](https://flutter.dev/)
@@ -32,24 +26,18 @@ A clean and minimal Flutter app to track your dreams. Add daily entries with ico
 ```bash
 lib/
  ├── main.dart         # App entry point
- ├── dream_list.dart   # Dream history UI
- └── dream_model.dart  # Dream data model
 ```
-
----
 
 ## 🧑‍💻 Getting Started
 
 To run this app locally:
 
 ```bash
-git clone https://github.com/your-username/dream_tracker.git
+git clone https://github.com/bektas-sari/dream_tracker.git
 cd dream_tracker
 flutter pub get
 flutter run
 ```
-
----
 
 ## 📈 Learning Highlights
 
@@ -79,5 +67,4 @@ flutter run
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License.
