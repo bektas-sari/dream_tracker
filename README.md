@@ -1,8 +1,4 @@
-Elbette! İşte **Dream Tracker App** için profesyonel, sade ve düzenli bir `README.md` dosyası. Tüm başlıklar, içerikler ve bölümler uygun Markdown formatındadır. Her şey tek sayfada ve yapıştırılmaya hazırdır:
-
----
-
-# 🌙 Dream Tracker App
+# 🌙 Dream Tracker (Flutter APP)
 
 A clean and minimal Flutter app to track your dreams. Add daily entries with icons, review them by date, and build your personal dream history.
 
